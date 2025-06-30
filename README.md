@@ -56,7 +56,7 @@ You'll need the following installed on the host where you plan to run the collec
       3.  Copy the write key value from the **Log Access Keys** section, or create a new one if needed.
       - For more details, see: [https://community.sentinelone.com/s/article/000006763](https://community.sentinelone.com/s/article/000006763)
 
-4.  **AI SIEM Console URL:** For example, `xdr.us1.sentinelone.net`. You'll need the correct URL for your specific Datacenter.
+4.  **AI SIEM Ingest URL:** For example, `xdr.us1.sentinelone.net`. You'll need the correct URL for your specific Datacenter.
     - See Services and Ports for Management: [https://community.sentinelone.com/s/article/000004961](https://community.sentinelone.com/s/article/000004961)
 
 ## Docker Project Steps
@@ -116,7 +116,7 @@ The collector needs to know where to send the logs and with what credentials.
 - **Edit `.env`:** Open the newly created `.env` file in a text editor (like Notepad on Windows, TextEdit on Mac, or `nano`/`vim` on Linux).
 
   - Replace `TOKEN-GOES-HERE` with your actual **AI SIEM Log Access Write Token**.
-  - Replace `REGION-INGEST-URL-HERE` with your **AI SIEM Console URL** (e.g., `https://xdr.us1.sentinelone.net`).
+  - Replace `REGION-INGEST-URL-HERE` with your **AI SIEM Ingest URL** (e.g., `https://xdr.us1.sentinelone.net`).
 
   Your `.env` file should look something like this (with your actual values):
 
