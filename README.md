@@ -355,7 +355,7 @@ If you're not seeing your logs in AI SIEM, here are some common troubleshooting 
     - Use `curl` to test connectivity to the AI SIEM server on the expected port (usually 443 for HTTPS).
     - **Example:**
       ```bash
-      curl -v [https://xdr.us1.sentinelone.net](https://xdr.us1.sentinelone.net)
+      curl -v https://xdr.us1.sentinelone.net
       ```
       Look for a successful connection. If it hangs or shows errors, a firewall might be blocking it.
 
