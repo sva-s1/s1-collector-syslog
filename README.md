@@ -405,7 +405,7 @@ AISIEM_SERVER=REGION-INGEST-URL-HERE
 
 ```yaml
 # Configuration for this S1 Collector Agent. For help:
-# [https://community.sentinelone.com/s/topic/0TO69000000as2qGAA/sentinelone-collector](https://community.sentinelone.com/s/topic/0TO69000000as2qGAA/sentinelone-collector)
+# https://community.sentinelone.com/s/topic/0TO69000000as2qGAA/sentinelone-collector
 
 services:
   s1-collector:
