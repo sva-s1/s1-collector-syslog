@@ -3,7 +3,7 @@
 ![SyslogPipe-Dockerized-S1-Collector.png](src/assets/images/SyslogPipe-Dockerized-S1-Collector.png)
 
 > [!IMPORTANT]
-> This project provides a straightforward way for practitioners to set up the SentinelOne Collector to ingest syslog events into AI SIEM using Docker. You don't need to be a Linux or Docker expert to follow along!
+> This project provides a straightforward way for practitioners to set up the SentinelOne Collector to ingest syslog events into AI SIEM using Docker. You don't need to be a Linux or Docker expert to follow along! Please `star` this page if you find it helpful.
 
 **Official SentinelOne Documentation:**
 
