@@ -99,7 +99,8 @@ The SentinelOne Collector runs inside a Docker container. You'll need to pull th
 docker pull scalyr/scalyr-agent-docker-json
 ```
 
-The `:latest` tag usually points to the most recent stable version.
+> [!TIP]
+> The `:latest` tag usually points to the most recent stable version.
 
 ### 3\. Configure Your API Key and Server URL
 
