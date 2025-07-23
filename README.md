@@ -1,7 +1,7 @@
 # Install the SentinelOne Collector on Docker with Syslog
 
 > Quick-Start Guide for a Single Source
-(Note: Support for multiple sources on the same port is coming soon)
+>   (Note: Support for multiple sources on the same port is coming soon)
 
 ![SyslogPipe-Dockerized-S1-Collector.png](src/assets/images/SyslogPipe-Dockerized-S1-Collector.png)
 
