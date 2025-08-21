@@ -3,7 +3,7 @@
 > Quick-Start Guide for a Single Source  
 > (Note: Support for multiple sources on the same port can be found here: https://github.com/sva-s1/syslog-collector)
 
----
+![SyslogPipe-Dockerized-S1-Collector.png](src/assets/images/SyslogPipe-Dockerized-S1-Collector.png)
 
 > [!IMPORTANT]
 > This project provides a straightforward way for practitioners to set up the SentinelOne Collector to ingest syslog events into AI SIEM using Docker. You don't need to be a Linux or Docker expert to follow along!
